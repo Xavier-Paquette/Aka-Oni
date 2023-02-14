@@ -15,7 +15,7 @@ public class LockerController : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D col) {
         _inRange = true;
-        if (_colObject.gameObject.tag == "Player") {
+        if (col.gameObject.tag == "Player") {
             _colObject = col;
         }
     }
