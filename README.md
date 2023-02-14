@@ -3,7 +3,6 @@
 @author Xavier Paquette
 
 Known issues
-- lockers do not work
 - using wooden plank does not always work to cross gap in floor
 - enemy movement ai is awkward
 - player can still move after dying
