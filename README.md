@@ -1,4 +1,4 @@
-# Aka Oni 2D Top-Down RPG Horror game
+# Aka Oni 2D Top-Down RPG Horror game UNITY
 
 @author Xavier Paquette
 
