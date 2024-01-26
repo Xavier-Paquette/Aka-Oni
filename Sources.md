@@ -1,37 +1,13 @@
-features + concepts:
-- dialogue
-- multiple endings (1 good and 2 bad, each special animations given)
-- different death animation depending on choices made in dialogue
-- key + lock system with scriptable objects
-- environmental puzzles
-- backtracking required
-- small hints to solve puzzles sprinkled in gameplay
-- hide in locker to not get killed
-- use a keypad to unlock main door - interactible GUI
-- elevator menu selections
-- puzzles get increasingly more complex but never too random, dialogue clues are given
-- dialogue triggers are used to explain some story, but plot is purposely vague- makes it more fun ;)
-- Custom sprites and animations mostly made by Celine Bacon and some made by yours truly
-- Cannot fight back against enemy directly, there is a way to kill him though :)
-- collect x number of hidden collectibles to achieve good ending (hinted at a few times in game)
-- blinking circle indicates interactible object
-- loading zones
-- situational awareness needed
-
-
--I have added a walkthrough MD file in case you get stuck, I want you to experience everything ;)
-
-
-
-
-
-This game is heavily inspired by a japanese horror game I love called corpse party https://store.steampowered.com/app/251270/Corpse_Party/ that has one of the best soundtracks of any video game.
+This game is heavily inspired by a japanese horror game called corpse party https://store.steampowered.com/app/251270/Corpse_Party/
 This game is also inspired by the Japanese folktale Aka Manto, which is essentially a modified version of bloody mary. https://en.wikipedia.org/wiki/Aka_Manto
 
 
 
 
 Sources:
+
+Sprites and animations:
+Celine Bacon
 
 Fonts:
 - Scary font: https://www.dafont.com/help-me.font
